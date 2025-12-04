@@ -1,4 +1,4 @@
-name: Deploy Customer Loyalty Agent
+name: Deploy Interior Designer Agent
 
 on:
   push:
