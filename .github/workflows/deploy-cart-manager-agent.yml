@@ -41,5 +41,5 @@ jobs:
       - name: Run customer loyalty agent initializer
         run: |
           python cartManagerAgent_initializer.py
-          working-directory: src/app/agents
+        working-directory: src/app/agents
 
