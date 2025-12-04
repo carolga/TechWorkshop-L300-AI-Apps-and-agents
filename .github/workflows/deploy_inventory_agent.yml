@@ -7,7 +7,7 @@ on:
       - 'src/app/agents/inventoryAgent_initializer.py'
       - 'src/app/tools/inventoryCheck.py'
       - 'src/prompts/InventoryAgentPrompt.txt'
-      - '.github/workflows/agent_inventory_deployment.yml'
+      - '.github/workflows/deploy_inventory_agent.yml'
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
 
