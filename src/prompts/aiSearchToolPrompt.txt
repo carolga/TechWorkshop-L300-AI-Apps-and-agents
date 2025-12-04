@@ -17,7 +17,7 @@ Instructions:
 3. Only include products that are relevant to the `{question}`.
    - If the user is asking about **paint shades**, exclude accessories and tools like rollers and sprayers.
 
-4. **Do not add** any explanation, markdown, commentary, headers, or formatting outside the JSON.
+4. **Do not add** any explanation, markdown, commentary, headers, or formatting outside of the JSON.
 
 5. Return the information in the following structured format grouped by category:
 [
